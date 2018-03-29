@@ -17,7 +17,8 @@
 #include "Arduino.h"
 #include <stdarg.h>
 #include "SPI.h"
-#include "mySD.h"
+//#include "mySD.h"
+#include "SdFat.h"
 #include <Wire.h>
 
 #if !defined(__SAM3X8E__)&& !defined(ARDUINO_ARCH_STM32)
@@ -44,6 +45,7 @@
 
 #if defined(ESP32)
  #include <EEPROM.h>
+ #include "mySD.h"
 // EEPROM.begin(512);
  #define CS          5
  #define SD_PIN      4
