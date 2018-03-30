@@ -36,8 +36,8 @@
 > @lightcalamar
 
 # License
-* License by James Bowman https://github.com/lightcalamar/GD23Z/blob/master/LICENSE
-[Recursos para programadores](https://github.com/lightcalamar/GD23Z/blob/master/LICENSE "Recursos para programadores").
+* License by James Bowman [LICENSE](https://github.com/lightcalamar/GD23Z/blob/master/LICENSE "LICENSE").
+
 # Acknowledgments
 - Hat tip to anyone who's code was used
 - Inspiration
