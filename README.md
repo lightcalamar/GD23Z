@@ -8,3 +8,10 @@
 * Uno r3
 * Mega
 * DUE
+
+# STM32F support
++ Models Boards;
+*``STM32F103x``
+*` STM32F407x`
+* `STM32F429x`
+*` STM32F767x`
