@@ -31,7 +31,7 @@
 * All shields of the different manufacturers with Espressif ESP8266-12E chip
 
 # Autors
-> @TFTLCDCyg
+> [@TFTLCDCyg](https://ft81xmania.com/comunidad/Usuario-tftlcdcyg).
 
 > @lightcalamar
 
