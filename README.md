@@ -4,13 +4,13 @@
 + Supports all the commands and functions of the original https://github.com/jamesbowman/gd2-lib
 
 # Arduino support
-+ Models boards;
++    Models boards;
 * Uno r3
 * Mega
 * DUE
 
 # STM32F support
-+ Models Boards;
++    Models Boards;
 *``STM32F103x``
 *` STM32F407x`
 * `STM32F429x`
