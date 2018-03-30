@@ -32,8 +32,7 @@
 
 # Autors
 > [@TFTLCDCyg](https://ft81xmania.com/comunidad/Usuario-tftlcdcyg).
-
-> @lightcalamar
+> [@lightcalamar](https://ft81xmania.com/comunidad/Usuario-lightcalamar).
 
 # License
 * [LICENSE](https://github.com/lightcalamar/GD23Z/blob/master/LICENSE "LICENSE"). by James Bowman
