@@ -36,7 +36,7 @@
 > @lightcalamar
 
 # License
-* License by James Bowman [LICENSE](https://github.com/lightcalamar/GD23Z/blob/master/LICENSE "LICENSE").
+* [LICENSE](https://github.com/lightcalamar/GD23Z/blob/master/LICENSE "LICENSE"). by James Bowman
 
 # Acknowledgments
 - Hat tip to anyone who's code was used
