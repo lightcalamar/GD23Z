@@ -32,11 +32,12 @@
 
 # Autors
 > @TFTLCDCyg
+
 > @lightcalamar
 
 # License
 * License by James Bowman https://github.com/lightcalamar/GD23Z/blob/master/LICENSE
-
+[Recursos para programadores](https://github.com/lightcalamar/GD23Z/blob/master/LICENSE "Recursos para programadores").
 # Acknowledgments
 - Hat tip to anyone who's code was used
 - Inspiration
