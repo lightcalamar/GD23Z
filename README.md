@@ -1,14 +1,10 @@
-
 ![FT81xmania Team](https://ft81xmania.com/comunidad/images/logo.png)
-
 # History
 We are an enthusiastic team of screens based on FTDI chip. We like programming and share our advances. We have reached this goal, our only interest is to give the opportunity to operate this library to multiple platforms of MCUs in the market. Wait for you to enjoy the codes, of our, your time.
-
 # Library GD23Z by FT81xmania Team
 + Unoficial graphic library for MCU, STM32, ESPx, Teensy, Arduino and mores.
 + This library is based by James Bowman http://excamera.com/sphinx/index.html
 + Supports all the commands and functions of the original https://github.com/jamesbowman/gd2-lib
-
 # Arduino support
     Models boards; (This boards support playback video,see Wiki)
 * Uno r3
