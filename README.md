@@ -15,3 +15,16 @@
 * STM32F407x
 * STM32F429x
 * STM32F767x
+
+# Teensy support
+    Models Boards;
+* Teensy v2.0
+* Teensy 3.x (5 and 6)
+
+# ESP32 support
+    Models boards;
+* All shields of the different manufacturers with Espressif WROOM-2 chip
+
+# ESP8266 support
+    Models boards;
+* All shields of the different manufacturers with Espressif ESP8266-12E chip
