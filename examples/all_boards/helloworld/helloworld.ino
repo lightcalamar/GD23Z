@@ -2,7 +2,7 @@
 
 void setup()
 {
-//  EEPROM.begin(512); Only for ESP8266 and ESP32
+//  EEPROM.begin(512); Use only for ESP8266 and ESP32 calibration screen
   GD.begin(0);
 }
 
