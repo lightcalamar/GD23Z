@@ -56,6 +56,12 @@ Origin; Singapore
 * [Migration FT80x to FT81x](http://www.ftdichip.com/Support/Documents/AppNotes/AN_390%20FT80x%20To%20FT81x%20Migration%20Guide.pdf) Documentation PDF.
 * [FT81x High resolution](http://brtchip.com/wp-content/uploads/Support/Documentation/Datasheets/ICs/EVE/DS_FT81x.pdf), This a PDF documentation for FT81x screens programming guide.
 
+# Resource and help for FTDI screens
+* A book by [James Bowman](https://ft81xmania.com/comunidad/Tema-gd2-book-by-james-bownman-screen-ftdi?highlight=book)
+* [Service Manual by @lightcalamar for Arduino, models; UNO r3 and MEGA (Spanish language)](https://ft81xmania.com/comunidad/Tema-ft8xx-service-manual)
+* [Utility for transformation of images and assets](https://github.com/lightcalamar/Asset-Tools-FT81X-v3) on repository 
+* [Designer Editor](https://drive.google.com/open?id=1cmoGCe6tMLE_6JSjYLIngVogORFmBwBG) Maybe the best version for FTDI screen design. This version exports the code used to the Gameduino library. Note: this version is out of date, however very useful for your projects. It will greatly reduce the time used in your programming. It is capable of exporting images, to PROGMEM code and many more functions. Discover it!
+
 # Autors
 > [@TFTLCDCyg](https://ft81xmania.com/comunidad/Usuario-tftlcdcyg)
 > [@lightcalamar](https://ft81xmania.com/comunidad/Usuario-lightcalamar)
