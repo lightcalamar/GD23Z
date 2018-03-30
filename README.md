@@ -7,6 +7,7 @@
     Models boards;
 * Uno r3
 * Mega
+* Nano
 * DUE
 
 # STM32F support
@@ -28,3 +29,6 @@
 # ESP8266 support
     Models boards;
 * All shields of the different manufacturers with Espressif ESP8266-12E chip
+
+# License
+* License by James Bowman https://github.com/lightcalamar/GD23Z/LICENSE
