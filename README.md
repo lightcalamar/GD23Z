@@ -30,6 +30,10 @@
     Models boards; (This boards support playback video,see Wiki)
 * All shields of the different manufacturers with Espressif ESP8266-12E chip
 
+# Autors
+> @TFTLCDCyg
+> @lightcalamar
+
 # License
 * License by James Bowman https://github.com/lightcalamar/GD23Z/blob/master/LICENSE
 
