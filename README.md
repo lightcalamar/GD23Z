@@ -31,4 +31,4 @@
 * All shields of the different manufacturers with Espressif ESP8266-12E chip
 
 # License
-* License by James Bowman https://github.com/lightcalamar/GD23Z/LICENSE
+* License by James Bowman https://github.com/lightcalamar/GD23Z/blob/master/LICENSE
