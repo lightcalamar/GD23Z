@@ -62,6 +62,11 @@ Origin; Singapore
 * [Utility for transformation of images and assets](https://github.com/lightcalamar/Asset-Tools-FT81X-v3) on repository 
 * [Designer Editor](https://drive.google.com/open?id=1cmoGCe6tMLE_6JSjYLIngVogORFmBwBG) Maybe the best version for FTDI screen design. This version exports the code used to the Gameduino library. Note: this version is out of date, however very useful for your projects. It will greatly reduce the time used in your programming. It is capable of exporting images, to PROGMEM code and many more functions. Discover it!
 
+# Useful links
+* Repository by [Amthony Di Girolamo](https://github.com/AnthonyDiGirolamo/gd2-lib-sdfat-testing)
+* Core for STM32GENERIC by [Danieleff](https://github.com/danieleff/STM32GENERIC), installation for IDE Arduino with STM32 boards
+* Library GD2 by [James Bowman](https://github.com/jamesbowman/gd2-lib)
+
 # Autors
 > [@TFTLCDCyg](https://ft81xmania.com/comunidad/Usuario-tftlcdcyg)
 > [@lightcalamar](https://ft81xmania.com/comunidad/Usuario-lightcalamar)
