@@ -31,11 +31,12 @@
 * All shields of the different manufacturers with Espressif ESP8266-12E chip
 
 # Autors
-> [@TFTLCDCyg](https://ft81xmania.com/comunidad/Usuario-tftlcdcyg).
-> [@lightcalamar](https://ft81xmania.com/comunidad/Usuario-lightcalamar).
+> [@TFTLCDCyg](https://ft81xmania.com/comunidad/Usuario-tftlcdcyg)
+> [@lightcalamar](https://ft81xmania.com/comunidad/Usuario-lightcalamar)
+> [@rndmnkiii](https://ft81xmania.com/comunidad/Usuario-rndmnkiii)
 
 # License
-* [LICENSE](https://github.com/lightcalamar/GD23Z/blob/master/LICENSE "LICENSE"). by James Bowman
+* [LICENSE](https://github.com/lightcalamar/GD23Z/blob/master/LICENSE "LICENSE") by James Bowman
 
 # Acknowledgments
 - Hat tip to anyone who's code was used
