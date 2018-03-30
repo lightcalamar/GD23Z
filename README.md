@@ -50,7 +50,12 @@ Origin; Singapore
 
 + [Gameduino 3](https://coolcomponents.co.uk/products/gameduino-3)
  Original Gameduino3 by James Bowman, release in December 2017, 4.3-inch screen and FT810, UK online store.
- 
+
+# Where do I find information about programming EVE2 of FTDI?
+* [Support Oficial FTDI-Chip](http://www.ftdichip.com/Support/SoftwareExamples/FT800_Projects.htm#FT8xx_Selecting%20an%20LCD%20Display) Complete list of examples and documentation of FTDI-Chip
+* [Migration FT80x to FT81x](http://www.ftdichip.com/Support/Documents/AppNotes/AN_390%20FT80x%20To%20FT81x%20Migration%20Guide.pdf) Documentation PDF.
+* [FT81x High resolution](http://brtchip.com/wp-content/uploads/Support/Documentation/Datasheets/ICs/EVE/DS_FT81x.pdf), This a PDF documentation for FT81x screens programming guide.
+
 # Autors
 > [@TFTLCDCyg](https://ft81xmania.com/comunidad/Usuario-tftlcdcyg)
 > [@lightcalamar](https://ft81xmania.com/comunidad/Usuario-lightcalamar)
