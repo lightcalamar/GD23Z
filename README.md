@@ -38,18 +38,12 @@ Follow our Wiki in detail, where you will find more information.
 * All shields of the different manufacturers with Espressif ESP8266-12E chip
 
 # Where to buy FT8xx screens?
-* [New Haven Display](http://www.newhavendisplay.com/advanced_search_result.html?y=0&x=0&keyword=eve2&search_in_description=1)
- Location in the USA, Boston, great finish quality.
-
+* [New Haven Display](http://www.newhavendisplay.com/advanced_search_result.html?y=0&x=0&keyword=eve2&search_in_description=1) Location in the USA, Boston, great finish quality.
 * [HotMCU](https://www.hotmcu.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=ftdi)
  Good prices and good design with frame included. Only produce 5 and 4.3 inches, models FT800, FT810 and FT11.
 Origin; Singapore
-
-* [Riverdi Display](https://riverdi.com/product/mikroc-pro-for-ft90x/)
- Quality and variety of screens, their origin; Poland.
-
-+ [Gameduino 3](https://coolcomponents.co.uk/products/gameduino-3)
- Original Gameduino3 by James Bowman, release in December 2017, 4.3-inch screen and FT810, UK online store.
+* [Riverdi Display](https://riverdi.com/product/mikroc-pro-for-ft90x/) Quality and variety of screens, their origin; Poland.
++ [Gameduino 3](https://coolcomponents.co.uk/products/gameduino-3) Original Gameduino3 by James Bowman, release in December 2017, 4.3-inch screen and FT810, UK online store.
 
 # Where do I find information about programming EVE2 of FTDI?
 * [Support Oficial FTDI-Chip](http://www.ftdichip.com/Support/SoftwareExamples/FT800_Projects.htm#FT8xx_Selecting%20an%20LCD%20Display) Complete list of examples and documentation of FTDI-Chip
