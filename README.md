@@ -32,3 +32,8 @@
 
 # License
 * License by James Bowman https://github.com/lightcalamar/GD23Z/blob/master/LICENSE
+
+# Acknowledgments
+- Hat tip to anyone who's code was used
+- Inspiration
+- etc
