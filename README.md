@@ -37,6 +37,12 @@ Follow our Wiki in detail, where you will find more information.
     Models boards; (This boards support playback video,see Wiki)
 * All shields of the different manufacturers with Espressif ESP8266-12E chip
 
+# Installation
+    * Linux
+    Unzip library copy and paste in /home/your_user/arduino-1.8.5/libraries/
+    
+    * Windows
+     Comming soon ...
 # Where to buy FT8xx screens?
 * [New Haven Display](http://www.newhavendisplay.com/advanced_search_result.html?y=0&x=0&keyword=eve2&search_in_description=1) Location in the USA, Boston, great finish quality.
 * [HotMCU](https://www.hotmcu.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=ftdi)
