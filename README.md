@@ -31,8 +31,9 @@ Follow our Wiki in detail, where you will find more information.
 
 # ESP32 support  
     Models boards;  (This boards NOT support playback video,see Wiki)
-* All shields of the different manufacturers with Espressif WROOM-2 chip
-
+* All shields of the different manufacturers with Espressif WROOM-2 chip 
+     [Follow this board's Wiki](https://github.com/lightcalamar/GD23Z/wiki/ESP32-configuration)
+   
 # ESP8266 support
     Models boards; (This boards support playback video,see Wiki)
 * All shields of the different manufacturers with Espressif ESP8266-12E chip
