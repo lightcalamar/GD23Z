@@ -1544,7 +1544,7 @@ public:
     }
   }
   void play() {
-    GD.cmd_playvideo(OPT_MEDIAFIFO | OPT_FULLSCREEN);
+    GD.cmd_playvideo(OPT_MEDIAFIFO | OPT_FULLSCREEN | OPT_SOUND);
     GD.flush();
     while (service())
       ;
