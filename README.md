@@ -19,12 +19,14 @@ Follow our Wiki in detail, where you will find more information.
 
 # STM32F support
     Models Boards;  (This boards NOT support playback video, see Wiki)
-* STM32F103x
-* STM32F407x
+* STM32F103x (All)
+* STM32F407x (BLACK or M4-DEMO)
 * STM32F429x
-* STM32F767x
-* STM32L476RG (This boards support playback video, see Wiki) 
- 
+* Nucleo STM32F767x
+* Nucleo STM32L476RG (This boards support playback video, see Wiki) 
+*
+* [Follow this board's Wiki](https://github.com/lightcalamar/GD23Z/wiki/STM32Fx-configuration) 
+    
 # Teensy support 
     Models Boards;  (This boards NOT support playback video (ONLY 2.0 support playback video),see Wiki)
 * Teensy 2.0
