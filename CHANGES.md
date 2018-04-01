@@ -5,7 +5,7 @@
 
 # Date;  1, Apil  2018 
      File GD23Z.cpp
-     #if def ESP3)            to    #if defined(ESP32)      (line 914)   -Modified-
+     #if def ESP32            to    #if defined(ESP32)      (line 914)   -Modified-
                                     EEPROM.begin(512);      (line 915)   -Add-
      
      File GD23Z.h
