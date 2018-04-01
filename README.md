@@ -24,8 +24,7 @@ Follow our Wiki in detail, where you will find more information.
 * STM32F429x
 * Nucleo STM32F767x
 * Nucleo STM32L476RG (This boards support playback video, see Wiki) 
-*
-* [Follow this board's Wiki](https://github.com/lightcalamar/GD23Z/wiki/STM32Fx-configuration) 
+* Consult the documentation different boards to pins SPI1 and SPI2 [Follow this board's Wiki](https://github.com/lightcalamar/GD23Z/wiki/STM32Fx-configuration) 
     
 # Teensy support 
     Models Boards;  (This boards NOT support playback video (ONLY 2.0 support playback video),see Wiki)
