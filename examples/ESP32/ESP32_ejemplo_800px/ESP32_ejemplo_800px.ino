@@ -4,11 +4,11 @@
 
 void setup()
 {
-//  EEPROM.begin(512); // Use only for ESP8266 and ESP32 calibration screen
+  EEPROM.begin(512); // Use only for ESP8266 and ESP32 calibration screen
   // wdt_disable(); Use only for ESP8266
   Serial.begin(9600);
   Serial.println("Initializing WeatherNG graphics controller FT81x...");
-  GD.begin(0);
+  GD.begin();
   LOAD_ASSETS();
   Serial.println("Done.");
 }
