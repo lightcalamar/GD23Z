@@ -9,7 +9,7 @@
      EEPROM.begin(512);      (line 915)   -Add-
      
      File GD23Z.h
-     // #include "mySD.h"    (line  47)   -Modified-
+     // #include "mySD.h"    (line  48)   -Modified-
   
 # Date; 29, Marzo 2018
      Initial files in repository
