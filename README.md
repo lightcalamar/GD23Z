@@ -25,8 +25,8 @@ Follow our Wiki in detail, where you will find more information.
 * STM32F767x
 
 # Teensy support 
-    Models Boards;  (This boards NOT support playback video,see Wiki)
-* Teensy v2.0
+    Models Boards;  (This boards NOT support playback video(ONLY 2.0 support playback video),see Wiki)
+* Teensy 2.0
 * Teensy 3.x (5 and 6)
 
 # ESP32 support  
