@@ -911,7 +911,8 @@ AT24Cxx eep(i2c_address, 32);
 #endif
 
 // ********************* FT81XMANIA by @lightcalamar **************************************
-#ifdef ESP32
+#if defined(ESP32) 
+  EEPROM.begin(512);	
     if ((EEPROM.read(0) != 0x7c)) {
       self_calibrate();
       // for (int i = 0; i < 24; i++) Serial.println(GDTR.rd(REG_TOUCH_TRANSFORM_A + i), HEX);
