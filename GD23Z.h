@@ -45,7 +45,7 @@
 
 #if defined(ESP32)
  #include <EEPROM.h>
- #include "mySD.h"
+// #include "mySD.h"
 // EEPROM.begin(512);
  #define CS          5
  #define SD_PIN      4
