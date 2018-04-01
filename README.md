@@ -23,7 +23,7 @@ Follow our Wiki in detail, where you will find more information.
 * STM32F407x (BLACK or M4-DEMO)
 * STM32F429x
 * Nucleo STM32F767x
-* Nucleo STM32L476RG (This boards support playback video, see Wiki) 
+* Nucleo STM32L476RG (**This boards support playback video**, see Wiki) 
 * Consult the documentation different boards to pins SPI1 and SPI2 [Follow this board's Wiki](https://github.com/lightcalamar/GD23Z/wiki/STM32Fx-configuration) 
     
 # Teensy support 
@@ -51,7 +51,11 @@ Follow our Wiki in detail, where you will find more information.
 # Extra libraries    
 * To calibrate the FT81x screens in STM32Fx we need an external EEPROM. You can download the AT24C32 library from 
  [this link](https://ft81xmania.com/comunidad/Tema-library-eeprom-at24xx)
- 
+* Library **SdFat** for STM32F be included in core STMGENERIC. This be edited to work in STM32. **DO NOT USE** the official library. It will not work in STM32 architecture. 
+
+# Tips
+* These screens have a problem, being the length of the SPI BUS cables. The purpose is to be very short, between 7 and 10 mm. Also a tip is to use on this same SPI BUS some pull-up resistors. [Be a solution of a forum user](https://ft81xmania.com/comunidad/Tema-reset-power-up-issue-with-hotmmcu-ft811cb) by [@raufjay]( https://ft81xmania.com/comunidad/Usuario-raufjay)
+
 # Where to buy FT8xx screens?
 * [New Haven Display](http://www.newhavendisplay.com/advanced_search_result.html?y=0&x=0&keyword=eve2&search_in_description=1) Location in the USA, Boston, great finish quality.
 * [HotMCU](https://www.hotmcu.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=ftdi)
