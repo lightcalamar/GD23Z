@@ -47,6 +47,11 @@ Follow our Wiki in detail, where you will find more information.
     
     * Windows
      Comming soon ...
+     
+# Extra libraries    
+* To calibrate the FT81x screens in STM32Fx we need an external EEPROM. You can download the AT24C32 library from 
+ [this link](https://ft81xmania.com/comunidad/Tema-library-eeprom-at24xx)
+ 
 # Where to buy FT8xx screens?
 * [New Haven Display](http://www.newhavendisplay.com/advanced_search_result.html?y=0&x=0&keyword=eve2&search_in_description=1) Location in the USA, Boston, great finish quality.
 * [HotMCU](https://www.hotmcu.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=ftdi)
