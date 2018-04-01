@@ -11,31 +11,32 @@ This is the first library that unifies different MCUs. The adjustments are simpl
 Follow our Wiki in detail, where you will find more information.
 
 # Arduino support
-    Models boards; (This boards support playback video,see Wiki)
+    Models boards; (This boards support playback video, see Wiki)
 * Uno r3
 * Mega
 * Nano
 * DUE
 
 # STM32F support
-    Models Boards;  (This boards NOT support playback video,see Wiki)
+    Models Boards;  (This boards NOT support playback video, see Wiki)
 * STM32F103x
 * STM32F407x
 * STM32F429x
 * STM32F767x
+>     STM32L476RG       (This boards support playback video, see Wiki)
 
 # Teensy support 
-    Models Boards;  (This boards NOT support playback video(ONLY 2.0 support playback video),see Wiki)
+    Models Boards;  (This boards NOT support playback video (ONLY 2.0 support playback video),see Wiki)
 * Teensy 2.0
 * Teensy 3.x (5 and 6)
 
 # ESP32 support  
-    Models boards;  (This boards NOT support playback video,see Wiki)
+    Models boards;  (This boards NOT support playback video, see Wiki)
 * All shields of the different manufacturers with Espressif WROOM-2 chip 
      [Follow this board's Wiki](https://github.com/lightcalamar/GD23Z/wiki/ESP32-configuration)
    
 # ESP8266 support
-    Models boards; (This boards support playback video,see Wiki)
+    Models boards; (This boards support playback video, see Wiki)
 * All shields of the different manufacturers with Espressif ESP8266-12E chip
 
 # Installation
