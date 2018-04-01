@@ -6,7 +6,10 @@
 # Date;  1, Apil  2018 
      File GD23Z.cpp
      #if defined(ESP32)      (line 914)   -Modified-
-     EEPROM.begin(512);      (line 915)   -add-
+     EEPROM.begin(512);      (line 915)   -Add-
+     
+     File GD23Z.h
+     // #include "mySD.h"    (line  47)   -Modified-
   
 # Date; 29, Marzo 2018
      Initial files in repository
