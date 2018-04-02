@@ -1,5 +1,5 @@
-//#include <EEPROM.h>
-//#include <SPI.h>
+#include <EEPROM.h>
+#include <SPI.h>
 #include <GD23Z.h>
 
 void setup()
