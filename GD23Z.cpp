@@ -911,7 +911,7 @@ AT24Cxx eep(i2c_address, 32);
 #endif
 
 // ********************* FT81XMANIA by @lightcalamar **************************************
-#if defined(ESP32) 
+#if defined(ESP32) || defined(ESP8266)
   EEPROM.begin(512);	
     if ((EEPROM.read(0) != 0x7c)) {
       self_calibrate();
