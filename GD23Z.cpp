@@ -2062,12 +2062,12 @@ static const PROGMEM uint8_t __bsod_badfile[32] = {
 
 void GDClass::alert(const char *message)
 {
-  #define RAM_RAD1 0
+ // #define RAM_RAD1 0
 
   //static const PROGMEM prog_uchar Rad1[] = {
-static const unsigned char PROGMEM Rad1[] = {
-    #include "Rad1.h"
-  };
+//static const unsigned char PROGMEM Rad1[] = {
+//    #include "Rad1.h"
+//  };
 
   begin(0);
 
@@ -2079,21 +2079,21 @@ static const unsigned char PROGMEM Rad1[] = {
   if(TFT_FT81X_ENABLE==1){cmd_setrotate(ORIENTACION);}
   if(TFT_FT81X_ENABLE==0){GDTR.wr(REG_ROTATE, ROTACION);}
 
-  cmd_inflate(RAM_RAD1);
-  copy(Rad1, sizeof(Rad1));
-  GD.BitmapHandle(0);
-  GD.BitmapSource(0);
-  GD.BitmapLayout(ARGB1555, 400, 200);
-  GD.BitmapSize(NEAREST, BORDER, BORDER, 200, 200);
+  //cmd_inflate(RAM_RAD1);
+  //copy(Rad1, sizeof(Rad1));
+  //GD.BitmapHandle(0);
+  //GD.BitmapSource(0);
+  //GD.BitmapLayout(ARGB1555, 400, 200);
+  //GD.BitmapSize(NEAREST, BORDER, BORDER, 200, 200);
 
   ClearColorRGB(0x650000);
   Clear();
    
-  GD.ColorA(85);
-   GD.Begin(BITMAPS);
-   GD.Vertex2ii((GD.w / 2)-100, 0, 0);
-   ColorRGB(255,255,0);
-  GD.ColorA(255);
+  //GD.ColorA(85);
+  // GD.Begin(BITMAPS);
+  // GD.Vertex2ii((GD.w / 2)-100, 0, 0);
+  // ColorRGB(255,255,0);
+  //GD.ColorA(255);
 
    if (SCREEN_FT81X==14){
 
