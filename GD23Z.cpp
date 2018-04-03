@@ -988,29 +988,29 @@ void GDClass::storage(void) {
 }
 
 void GDClass::self_calibrate(void) {
-  #define RAM_TP1 0
+  //#define RAM_TP1 0
 
   //static const PROGMEM prog_uchar Tp1[] = {
-static const unsigned char PROGMEM Tp1[] = {
+//static const unsigned char PROGMEM Tp1[] = {
 
-    #include "Tp1.h"
-  };
+    //#include "Tp1.h"
+  //};
 
   cmd_dlstart();
 
   if(TFT_FT81X_ENABLE==1){cmd_setrotate(ORIENTACION);}
   if(TFT_FT81X_ENABLE==0){GDTR.wr(REG_ROTATE, ROTACION);}
 
-  GD.cmd_inflate(RAM_TP1);
-  GD.copy(Tp1, sizeof(Tp1));
-  GD.BitmapHandle(0);
-  GD.BitmapSource(0);
-  GD.BitmapLayout(ARGB1555, 170, 122);
-  GD.BitmapSize(NEAREST, BORDER, BORDER, 85, 122);
+  //GD.cmd_inflate(RAM_TP1);
+  //GD.copy(Tp1, sizeof(Tp1));
+  //GD.BitmapHandle(0);
+  //GD.BitmapSource(0);
+  //GD.BitmapLayout(ARGB1555, 170, 122);
+  //GD.BitmapSize(NEAREST, BORDER, BORDER, 85, 122);
 
   Clear();
 
-  GD.Begin(BITMAPS);
+  //GD.Begin(BITMAPS);
   ColorRGB(255,255,0);  
 
 GD.ColorA(85);
