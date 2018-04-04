@@ -1,5 +1,5 @@
 //#define LOAD_ASSETS()  GD.safeload("Dial.gd2");
-#define LOAD_ASSETS1()  GD.safeloadSdFat(DialFM);
+#define LOAD_ASSETS1()  GD.safeloadSDIO(DialFM);
 #define FMDIALA_HANDLE 0
 #define FMDIALA_WIDTH 10
 #define FMDIALA_HEIGHT 55
