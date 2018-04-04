@@ -1,5 +1,5 @@
 #include <Wire.h>
-#include <GD2UB.h>
+#include <GD23Z.h>
 
 #include "DHT.h"
 
