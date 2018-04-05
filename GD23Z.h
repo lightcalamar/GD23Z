@@ -1275,7 +1275,7 @@ public:
     GD.__end();
     //r.openfile(rawsamples);
 	//FT81XMANIA TEAM (RndMnkIII)
-//	archivo.open(rawsamples, O_RDONLY);
+	archivo.open(rawsamples, O_RDONLY);  //TFTLCDCyg funciona para SDIO en teensy 3.6 y SdFat en STM32
     //por compatibilidad con la audio shield ahora se utiliza la libreria SD no la SdFat
 //    archivo = SD.open(rawsamples, FILE_READ);
     GD.resume();
