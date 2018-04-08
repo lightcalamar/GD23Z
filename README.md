@@ -47,7 +47,9 @@ Follow our Wiki in detail, where you will find more information.
     
     * Windows
      Comming soon ...
-     
+# Adjust the library according to your board and screen
+* [Follow the instructions our wiki](https://github.com/lightcalamar/GD23Z/wiki/Configuration-library)
+ 
 # Extra libraries    
 * To calibrate the FT81x screens in STM32Fx we need an external EEPROM. You can download the AT24C32 library from 
  [this link](https://ft81xmania.com/comunidad/Tema-library-eeprom-at24xx)
@@ -93,4 +95,3 @@ Origin; Singapore
 - Inspiration
 - etc
 
-# Be still in construction, finish everything approximately on April 6, 2018
