@@ -1,4 +1,4 @@
-#include <GD2UB.h>
+#include <GD23Z.h>
 
 Bitmap title, xaxis, yaxis, YCyg;
 
