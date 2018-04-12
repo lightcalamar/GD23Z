@@ -5,7 +5,7 @@ int Mensaje=0;
 void setup()
 {
 //   EEPROM.begin(512); // Use only for ESP8266 and ESP32 calibration screen
-  GD.begin(0);
+  GD.begin();
   //GD.self_calibrate();
 }
 
