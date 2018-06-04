@@ -85,7 +85,7 @@ Origin; Singapore
 # Autors
 > [@TFTLCDCyg](https://ft81xmania.com/comunidad/Usuario-tftlcdcyg)
 > [@lightcalamar](https://ft81xmania.com/comunidad/Usuario-lightcalamar)
-> [@rndmnkiii](https://ft81xmania.com/comunidad/Usuario-rndmnkiii)
+> ~~[@rndmnkiii](https://ft81xmania.com/comunidad/Usuario-rndmnkiii)~~
 
 # License
 > [LICENSE](https://github.com/lightcalamar/GD23Z/blob/master/LICENSE "LICENSE") by James Bowman
